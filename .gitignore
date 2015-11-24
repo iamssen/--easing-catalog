@@ -1,0 +1,7 @@
+.idea
+*.iml
+
+jspm_packages/*
+!jspm_packages/*.js
+!jspm_packages/*.js.map
+typings
